@@ -1,0 +1,2 @@
+data jam 9-10 invalid (banyak kosong)
+jam 2 jg (tiba2 disconnect)
